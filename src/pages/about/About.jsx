@@ -7,6 +7,7 @@ function About() {
         <h1 className=" text-2xl  font-bold text-gray-500 ">
           Welcome to about Page
         </h1>
+        ❤️❤️😍😍❤️❤️
       </div>
     </div>
   );

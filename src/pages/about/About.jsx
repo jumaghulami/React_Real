@@ -7,7 +7,10 @@ function About() {
         <h1 className=" text-2xl  font-bold text-gray-500 ">
           Welcome to about Page
         </h1>
-        ❤️❤️😍😍❤️❤️
+        <p className=" font-semibold text-red-500  text-center">
+          this is not real my name is not good and also how about you by the
+          name of allah
+        </p>
       </div>
     </div>
   );
